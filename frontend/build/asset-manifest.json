@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31b956af.css",
+    "main.js": "/static/js/main.72ef0e38.js",
+    "static/media/pmay.jpg": "/static/media/pmay.2c057817668784649850.jpg",
+    "static/media/Aham_logo.png": "/static/media/Aham_logo.2e00857801546012a310.png",
+    "index.html": "/index.html",
+    "main.31b956af.css.map": "/static/css/main.31b956af.css.map",
+    "main.72ef0e38.js.map": "/static/js/main.72ef0e38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31b956af.css",
+    "static/js/main.72ef0e38.js"
+  ]
+}
