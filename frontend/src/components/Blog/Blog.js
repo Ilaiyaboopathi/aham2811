@@ -12,7 +12,20 @@ export const blogPosts = [
   {
     id: 1,
     title: 'The Future of Real Estate Investment in 2025',
+    subHeading: 'Navigating the New Era of Property Investment',
     excerpt: 'Discover emerging trends and opportunities shaping the real estate market in the coming year.',
+    longDescription: [
+      'The real estate landscape is undergoing a seismic shift as we approach 2025. With the integration of AI-driven market analysis, sustainable building practices, and evolving government policies, investors are presented with a unique set of challenges and opportunities. Understanding these dynamics is crucial for anyone looking to capitalize on the next wave of property growth.',
+      'One of the most significant trends is the rise of Tier-2 and Tier-3 cities as new investment hotspots. As infrastructure development accelerates and remote work becomes the norm, these regions are witnessing unprecedented demand for both residential and commercial spaces. Smart investors are already diversifying their portfolios to include these high-growth potential areas.',
+      'Furthermore, the emphasis on green buildings and energy-efficient homes is no longer just a niche preference but a market standard. Properties with high sustainability ratings are commanding premium prices and ensuring better long-term value retention. This shift is driven not only by environmental consciousness but also by tangible cost savings for homeowners.'
+    ],
+    highlights: [
+      'Rise of Tier-2 and Tier-3 cities as investment hubs',
+      'Impact of AI and PropTech on property valuation',
+      'Sustainable and green building standards',
+      'Evolving government policies and tax benefits',
+      'Shift in consumer preference towards integrated townships'
+    ],
     category: 'Investment',
     author: 'Rajesh Kumar',
     date: 'Jan 15, 2025',
@@ -25,6 +38,18 @@ export const blogPosts = [
     title: 'Building Wealth Through Smart Home Loans',
     excerpt: 'Expert strategies for leveraging home financing to create long-term financial security.',
     category: 'Finance',
+    longDescription: [
+      'The real estate landscape is undergoing a seismic shift as we approach 2025. With the integration of AI-driven market analysis, sustainable building practices, and evolving government policies, investors are presented with a unique set of challenges and opportunities. Understanding these dynamics is crucial for anyone looking to capitalize on the next wave of property growth.',
+      'One of the most significant trends is the rise of Tier-2 and Tier-3 cities as new investment hotspots. As infrastructure development accelerates and remote work becomes the norm, these regions are witnessing unprecedented demand for both residential and commercial spaces. Smart investors are already diversifying their portfolios to include these high-growth potential areas.',
+      'Furthermore, the emphasis on green buildings and energy-efficient homes is no longer just a niche preference but a market standard. Properties with high sustainability ratings are commanding premium prices and ensuring better long-term value retention. This shift is driven not only by environmental consciousness but also by tangible cost savings for homeowners.'
+    ],
+    highlights: [
+      'Rise of Tier-2 and Tier-3 cities as investment hubs',
+      'Impact of AI and PropTech on property valuation',
+      'Sustainable and green building standards',
+      'Evolving government policies and tax benefits',
+      'Shift in consumer preference towards integrated townships'
+    ],
     author: 'Priya Sharma',
     date: 'Jan 12, 2025',
     readTime: '6 min read',
@@ -35,6 +60,18 @@ export const blogPosts = [
     id: 3,
     title: 'Leadership in Housing Finance: Key Insights',
     excerpt: 'Lessons from industry leaders on navigating the evolving housing finance landscape.',
+    longDescription: [
+      'The real estate landscape is undergoing a seismic shift as we approach 2025. With the integration of AI-driven market analysis, sustainable building practices, and evolving government policies, investors are presented with a unique set of challenges and opportunities. Understanding these dynamics is crucial for anyone looking to capitalize on the next wave of property growth.',
+      'One of the most significant trends is the rise of Tier-2 and Tier-3 cities as new investment hotspots. As infrastructure development accelerates and remote work becomes the norm, these regions are witnessing unprecedented demand for both residential and commercial spaces. Smart investors are already diversifying their portfolios to include these high-growth potential areas.',
+      'Furthermore, the emphasis on green buildings and energy-efficient homes is no longer just a niche preference but a market standard. Properties with high sustainability ratings are commanding premium prices and ensuring better long-term value retention. This shift is driven not only by environmental consciousness but also by tangible cost savings for homeowners.'
+    ],
+    highlights: [
+      'Rise of Tier-2 and Tier-3 cities as investment hubs',
+      'Impact of AI and PropTech on property valuation',
+      'Sustainable and green building standards',
+      'Evolving government policies and tax benefits',
+      'Shift in consumer preference towards integrated townships'
+    ],
     category: 'Leadership',
     author: 'Amit Patel',
     date: 'Jan 10, 2025',
@@ -46,6 +83,18 @@ export const blogPosts = [
     id: 4,
     title: 'First-Time Home Buyers: Complete Guide',
     excerpt: 'Everything you need to know about buying your first home.',
+    longDescription: [
+      'The real estate landscape is undergoing a seismic shift as we approach 2025. With the integration of AI-driven market analysis, sustainable building practices, and evolving government policies, investors are presented with a unique set of challenges and opportunities. Understanding these dynamics is crucial for anyone looking to capitalize on the next wave of property growth.',
+      'One of the most significant trends is the rise of Tier-2 and Tier-3 cities as new investment hotspots. As infrastructure development accelerates and remote work becomes the norm, these regions are witnessing unprecedented demand for both residential and commercial spaces. Smart investors are already diversifying their portfolios to include these high-growth potential areas.',
+      'Furthermore, the emphasis on green buildings and energy-efficient homes is no longer just a niche preference but a market standard. Properties with high sustainability ratings are commanding premium prices and ensuring better long-term value retention. This shift is driven not only by environmental consciousness but also by tangible cost savings for homeowners.'
+    ],
+    highlights: [
+      'Rise of Tier-2 and Tier-3 cities as investment hubs',
+      'Impact of AI and PropTech on property valuation',
+      'Sustainable and green building standards',
+      'Evolving government policies and tax benefits',
+      'Shift in consumer preference towards integrated townships'
+    ],
     category: 'Guide',
     author: 'Sneha Reddy',
     date: 'Jan 8, 2025',
@@ -57,6 +106,18 @@ export const blogPosts = [
     id: 5,
     title: 'Tax Benefits of Home Ownership in India',
     excerpt: 'Maximize your savings with these essential tax deductions.',
+    longDescription: [
+      'The real estate landscape is undergoing a seismic shift as we approach 2025. With the integration of AI-driven market analysis, sustainable building practices, and evolving government policies, investors are presented with a unique set of challenges and opportunities. Understanding these dynamics is crucial for anyone looking to capitalize on the next wave of property growth.',
+      'One of the most significant trends is the rise of Tier-2 and Tier-3 cities as new investment hotspots. As infrastructure development accelerates and remote work becomes the norm, these regions are witnessing unprecedented demand for both residential and commercial spaces. Smart investors are already diversifying their portfolios to include these high-growth potential areas.',
+      'Furthermore, the emphasis on green buildings and energy-efficient homes is no longer just a niche preference but a market standard. Properties with high sustainability ratings are commanding premium prices and ensuring better long-term value retention. This shift is driven not only by environmental consciousness but also by tangible cost savings for homeowners.'
+    ],
+    highlights: [
+      'Rise of Tier-2 and Tier-3 cities as investment hubs',
+      'Impact of AI and PropTech on property valuation',
+      'Sustainable and green building standards',
+      'Evolving government policies and tax benefits',
+      'Shift in consumer preference towards integrated townships'
+    ],
     category: 'Finance',
     author: 'Vikram Singh',
     date: 'Jan 6, 2025',
@@ -68,6 +129,18 @@ export const blogPosts = [
     id: 6,
     title: 'Sustainable Housing: Green Home Loans',
     excerpt: 'How eco-friendly homes are reshaping the mortgage industry.',
+    longDescription: [
+      'The real estate landscape is undergoing a seismic shift as we approach 2025. With the integration of AI-driven market analysis, sustainable building practices, and evolving government policies, investors are presented with a unique set of challenges and opportunities. Understanding these dynamics is crucial for anyone looking to capitalize on the next wave of property growth.',
+      'One of the most significant trends is the rise of Tier-2 and Tier-3 cities as new investment hotspots. As infrastructure development accelerates and remote work becomes the norm, these regions are witnessing unprecedented demand for both residential and commercial spaces. Smart investors are already diversifying their portfolios to include these high-growth potential areas.',
+      'Furthermore, the emphasis on green buildings and energy-efficient homes is no longer just a niche preference but a market standard. Properties with high sustainability ratings are commanding premium prices and ensuring better long-term value retention. This shift is driven not only by environmental consciousness but also by tangible cost savings for homeowners.'
+    ],
+    highlights: [
+      'Rise of Tier-2 and Tier-3 cities as investment hubs',
+      'Impact of AI and PropTech on property valuation',
+      'Sustainable and green building standards',
+      'Evolving government policies and tax benefits',
+      'Shift in consumer preference towards integrated townships'
+    ],
     category: 'Trends',
     author: 'Meera Nair',
     date: 'Jan 4, 2025',
@@ -79,6 +152,18 @@ export const blogPosts = [
     id: 7,
     title: 'Home Loan EMI Calculator: Smart Planning',
     excerpt: 'Master your monthly payments with strategic planning tools.',
+    longDescription: [
+      'The real estate landscape is undergoing a seismic shift as we approach 2025. With the integration of AI-driven market analysis, sustainable building practices, and evolving government policies, investors are presented with a unique set of challenges and opportunities. Understanding these dynamics is crucial for anyone looking to capitalize on the next wave of property growth.',
+      'One of the most significant trends is the rise of Tier-2 and Tier-3 cities as new investment hotspots. As infrastructure development accelerates and remote work becomes the norm, these regions are witnessing unprecedented demand for both residential and commercial spaces. Smart investors are already diversifying their portfolios to include these high-growth potential areas.',
+      'Furthermore, the emphasis on green buildings and energy-efficient homes is no longer just a niche preference but a market standard. Properties with high sustainability ratings are commanding premium prices and ensuring better long-term value retention. This shift is driven not only by environmental consciousness but also by tangible cost savings for homeowners.'
+    ],
+    highlights: [
+      'Rise of Tier-2 and Tier-3 cities as investment hubs',
+      'Impact of AI and PropTech on property valuation',
+      'Sustainable and green building standards',
+      'Evolving government policies and tax benefits',
+      'Shift in consumer preference towards integrated townships'
+    ],
     category: 'Tools',
     author: 'Arun Kapoor',
     date: 'Jan 2, 2025',
@@ -90,6 +175,18 @@ export const blogPosts = [
     id: 8,
     title: 'NRI Home Loans: Complete Overview',
     excerpt: 'Special financing options for Non-Resident Indians.',
+    longDescription: [
+      'The real estate landscape is undergoing a seismic shift as we approach 2025. With the integration of AI-driven market analysis, sustainable building practices, and evolving government policies, investors are presented with a unique set of challenges and opportunities. Understanding these dynamics is crucial for anyone looking to capitalize on the next wave of property growth.',
+      'One of the most significant trends is the rise of Tier-2 and Tier-3 cities as new investment hotspots. As infrastructure development accelerates and remote work becomes the norm, these regions are witnessing unprecedented demand for both residential and commercial spaces. Smart investors are already diversifying their portfolios to include these high-growth potential areas.',
+      'Furthermore, the emphasis on green buildings and energy-efficient homes is no longer just a niche preference but a market standard. Properties with high sustainability ratings are commanding premium prices and ensuring better long-term value retention. This shift is driven not only by environmental consciousness but also by tangible cost savings for homeowners.'
+    ],
+    highlights: [
+      'Rise of Tier-2 and Tier-3 cities as investment hubs',
+      'Impact of AI and PropTech on property valuation',
+      'Sustainable and green building standards',
+      'Evolving government policies and tax benefits',
+      'Shift in consumer preference towards integrated townships'
+    ],
     category: 'NRI',
     author: 'Sanjay Mehta',
     date: 'Dec 30, 2024',
@@ -101,6 +198,18 @@ export const blogPosts = [
     id: 9,
     title: 'Property Valuation: Expert Tips',
     excerpt: 'Understand true market value before making offers.',
+    longDescription: [
+      'The real estate landscape is undergoing a seismic shift as we approach 2025. With the integration of AI-driven market analysis, sustainable building practices, and evolving government policies, investors are presented with a unique set of challenges and opportunities. Understanding these dynamics is crucial for anyone looking to capitalize on the next wave of property growth.',
+      'One of the most significant trends is the rise of Tier-2 and Tier-3 cities as new investment hotspots. As infrastructure development accelerates and remote work becomes the norm, these regions are witnessing unprecedented demand for both residential and commercial spaces. Smart investors are already diversifying their portfolios to include these high-growth potential areas.',
+      'Furthermore, the emphasis on green buildings and energy-efficient homes is no longer just a niche preference but a market standard. Properties with high sustainability ratings are commanding premium prices and ensuring better long-term value retention. This shift is driven not only by environmental consciousness but also by tangible cost savings for homeowners.'
+    ],
+    highlights: [
+      'Rise of Tier-2 and Tier-3 cities as investment hubs',
+      'Impact of AI and PropTech on property valuation',
+      'Sustainable and green building standards',
+      'Evolving government policies and tax benefits',
+      'Shift in consumer preference towards integrated townships'
+    ],
     category: 'Investment',
     author: 'Divya Iyer',
     date: 'Dec 28, 2024',
@@ -336,11 +445,10 @@ const Blog = () => {
                   <button
                     key={i + 1}
                     onClick={() => setCurrentPage(i + 1)}
-                    className={`px-4 py-2 rounded-lg transition-colors ${
-                      currentPage === i + 1
+                    className={`px-4 py-2 rounded-lg transition-colors ${currentPage === i + 1
                         ? 'bg-primary-600 text-white'
                         : 'border border-gray-300 hover:bg-gray-50'
-                    }`}
+                      }`}
                   >
                     {i + 1}
                   </button>
@@ -394,11 +502,10 @@ const Blog = () => {
                   <button
                     key={category}
                     onClick={() => { setSelectedCategory(category); setCurrentPage(1); }}
-                    className={`w-full text-left px-4 py-2 rounded-lg transition-colors ${
-                      selectedCategory === category
+                    className={`w-full text-left px-4 py-2 rounded-lg transition-colors ${selectedCategory === category
                         ? 'bg-primary-600 text-white'
                         : 'hover:bg-gray-100 text-gray-700'
-                    }`}
+                      }`}
                   >
                     {category}
                   </button>
